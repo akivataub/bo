@@ -5,7 +5,7 @@
 
   [![version](https://shields.io/github/v/release/pisaucer/boredhtml)](https://github.com/PiSaucer/boredhtml/releases)
   [![license](https://badgen.net/github/license/pisaucer/boredhtml)](LICENSE)
-  [![commits](https://badgen.net/github/commits/pisaucer/boredhtml/)](https://github.com/PiSaucer/boredhtml/commits/master)
+  [![commits](https://badgen.net/github/commits/pisaucer/boredhtml/main)](https://github.com/PiSaucer/boredhtml/commits/main)
    ![last commit](https://badgen.net/github/last-commit/pisaucer/boredhtml)
   [![forks](https://img.shields.io/github/forks/pisaucer/boredhtml.svg)](https://github.com/pisaucer/boredhtml/network/members)
   [![contributors](https://img.shields.io/github/contributors/pisaucer/boredhtml)](https://github.com/pisaucer/boredhtml/graphs/contributors)

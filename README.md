@@ -42,7 +42,7 @@ What I use for local hosting:
 - [vscode](https://code.visualstudio.com/download) (text editor of choice)
 - [Node.js](https://nodejs.org/en/download/) (for local testing)
 - [Chrome](https://chrome.google.com/) (web browser of choice)
-- [Firebase](https://firebase.com/) (for hosting)
+- [Netlify](https://www.netlify.com/) (for hosting)
 - [GitHub](https://desktop.github.com/) (for version control)
 
 ## How I Host Locally

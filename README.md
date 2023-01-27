@@ -23,7 +23,6 @@
 - [boredht.ml](https://boredht.ml/)
 - [pisaucer.github.io/boredhtml/](https://pisaucer.github.io/boredhtml/)
 - [boredhtml.netlify.app](https://boredhtml.netlify.app/)
-- [boredinschoolrightnow.ml](https://boredinschoolrightnow.ml/)
 
 ## Built with
 - [Bootstrap](https://getbootstrap.com)
@@ -77,9 +76,6 @@ Pull requests are welcome. If you find any problem(s) in boredhtml, feel free to
 ## Authors
 
 - **[PiSaucer](https://github.com/PiSaucer)** - *Initial work* and created majority of the site
-- **[greymesa](https://github.com/greymesa)** - [Portable Minecraft](https://github.com/portablemc/portablemc) creator and linked some more sites
-- **[codefactor](https://github.com/code-factor)** - Checks quality of code
-- **[dependabot](https://github.com/apps/dependabot)** - Checks Security of code
 
 See also the list of other [contributors](https://github.com/PiSaucer/boredhtml/contributors) who participated in this project.
 

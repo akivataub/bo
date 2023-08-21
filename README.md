@@ -20,10 +20,9 @@
 
 ## Demos
 *(Ordered in best to worst)*
-- [boredht.ml](https://boredht.ml/)
-- [pisaucer.github.io/boredhtml/](https://pisaucer.github.io/boredhtml/)
+- [bored.pisaucer.com](https://boredhtml.pisaucer.com/)
 - [boredhtml.pisaucer.com](https://boredhtml.pisaucer.com/)
-- [boredhtml.pisaucer.ml](https://boredhtml.pisaucer.ml/)
+- [pisaucer.github.io/boredhtml/](https://pisaucer.github.io/boredhtml/)
 - [boredhtml.netlify.app](https://boredhtml.netlify.app/)
 
 ## Built with

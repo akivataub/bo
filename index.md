@@ -8,7 +8,7 @@ title: Home
 
 ## [Games](games/)
 
-{% include_relative games/readme.md %}
+{% include_relative games/README.md %}
 
 </div>
 

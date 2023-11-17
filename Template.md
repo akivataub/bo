@@ -3,6 +3,7 @@ layout: game
 title: TITLE
 folder: games/TITLE
 gamefile: TITLE.swf
+download: true
 description: DESCRIPTION
 ---
 

@@ -3,6 +3,7 @@ layout: game
 title: Alien Hominid
 folder: games/alienhominid
 gamefile: alien_hominid.swf
+download: true
 description: Alien Hominid is a side-scrolling shooter that has you playing as an alien that has crash landed on Earth and must fight off the FBI and other enemies to get back to his home planet.
 ---
 

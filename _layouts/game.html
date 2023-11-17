@@ -63,7 +63,14 @@
     {{ content }}
 
     <br>
-    <a href="{{ page.cdn_url }}" download class="btn btn-outline-dark">Download</a>
+
+    {% if page.download %}
+    <div>
+        {% assign cdn_url = site.cdn | append: "/" | append: page.folder | append: "/" | append: page.gamefile %}
+        <a href="{{ cdn_url }}" download class="btn btn-outline-dark">Download</a>
+    </div>
+    {% endif %}
+
     <footer>
         <hr>
         <p>"Stay Bored My Dudes"</p>

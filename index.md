@@ -18,8 +18,7 @@ title: Home
 
 ## Website Unblocker via Proxy
 
-* [holyubofficial.net<span class="material-icons">launch</span>](https://holyubofficial.net/) 
-* [holyubofficial.ml<span class="material-icons">launch</span>](https://holyubofficial.ml/) 
+* [holyubofficial.net<span class="material-icons">launch</span>](https://holyubofficial.net/)
 
 </div>
 

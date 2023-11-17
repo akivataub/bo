@@ -8,3 +8,4 @@
   * [Bloons TD 4]({{ "/games/bloonTDs/bloonTD4/" | relative_url }})
   * [Bloons TD 5]({{ "/games/bloonTDs/bloonTD5/" | relative_url }})
 * [Candy Crush]({{ "/games/candycrush/" | relative_url }})
+* [Cookie Clicker]({{ "/games/cookieclicker/" | relative_url }})

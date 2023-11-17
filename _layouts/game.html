@@ -60,12 +60,14 @@
 
     <br>
 
-    {{ content }}
+    <div class="content" style="margin-right: 50px;">
+        {{ content }}
+    </div>
 
     <br>
 
     {% if page.download %}
-    <div>
+    <div style="margin-right: 50px; text-align: center;">
         {% assign cdn_url = site.cdn | append: "/" | append: page.folder | append: "/" | append: page.gamefile %}
         <a href="{{ cdn_url }}" download class="btn btn-outline-dark">Download</a>
     </div>
@@ -77,6 +79,7 @@
         <p>VER {{ site.version }}</p>
         <p><strong>I DO NOT OWN THESE GAMES</strong></a></p>
         <p>*May Not Work At all schools</p>
+        <p><a href="privacy.html">Privacy Policy</a></p>
     </footer>
     <script src="{{ site.cdn }}ruffle/ruffle.js"></script>
 </body>

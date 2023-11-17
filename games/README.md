@@ -9,3 +9,8 @@
   * [Bloons TD 5]({{ "/games/bloonTDs/bloonTD5/" | relative_url }})
 * [Candy Crush]({{ "/games/candycrush/" | relative_url }})
 * [Cookie Clicker]({{ "/games/cookieclicker/" | relative_url }})
+* [Demons Took My Daughter]({{ "/games/demonstookmydaughter/" | relative_url }})
+* [Dino (T-Rex Game)]({{ "/games/dino/" | relative_url }})
+* [Dooms]({{ "/games/dooms/" | relative_url }})
+  * [Doom]({{ "/games/dooms/doom" | relative_url }})
+  * [Doom II: Hell on Earth]({{ "/games/dooms/doom2/" | relative_url }})

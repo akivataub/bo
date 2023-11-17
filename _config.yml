@@ -14,4 +14,4 @@ readme_index:
   enabled: true
   with_frontmatter: true
 
-cdn: https://bored-cdn.pisaucer.com/
+cdn: https://bored-cdn.pisaucer.com

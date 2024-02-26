@@ -9,6 +9,7 @@
   * [Bloons TD 5*]({{ "/games/bloonTDs/bloonTD5/" | relative_url }})
 * [Candy Crush*]({{ "/games/candycrush/" | relative_url }})
 * [Cookie Clicker]({{ "/games/cookieclicker/" | relative_url }})
+* [Minecraft Classic](https://bored-craft.pisaucer.com)
 * [Demons Took My Daughter*]({{ "/games/demonstookmydaughter/" | relative_url }})
 * [Dino (T-Rex Game)]({{ "/games/dino/" | relative_url }})
 * [Donkey Kong Flash]({{ "/games/donkeykong/" | relative_url }})
@@ -20,6 +21,5 @@
 * [Formula Racer*]({{ "/games/formularacer/" | relative_url }})
 * [Frogger]({{ "/games/frogger/" | relative_url }})
 
-<!-- bored-craft.pisaucer.com -->
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

@@ -27,6 +27,9 @@
   * [Happy Wheels Full Game]({{ "/games/happywheels/fullgame/" | relative_url }})
   * [Happy Wheels Actual Website*<span class="material-icons">launch</span>](https://totaljerkface.com/happy_wheels.tjf)
 * [Impossible Quiz]({{ "/games/impossiblequiz/" | relative_url }})
+* [Learn to Fly]({{ "/games/learntofly/" | relative_url }})
+  * [Learn to Fly 2]({{ "/games/learntofly/learntofly2/" | relative_url }})
+  * [Learn to Fly Idle*]({{ "/games/learntofly/learntoflyidle/" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

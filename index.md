@@ -12,6 +12,16 @@ title: Home
 
 </div>
 
+---
+
+<div class="OtherGames" id="OtherGames" markdown="1" style="margin-right: 50px;">
+
+## [Other Games](othergames/)
+
+{% include_relative othergames/README.md %}
+
+</div>
+
 <div class="WebsiteUnblockerProxy" markdown="1" style="margin-right: 50px;">
 
 ---

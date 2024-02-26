@@ -39,6 +39,7 @@
 * [Mii Maker]({{ "/games/miimaker/" | relative_url }})
 * [Minecraft Classic](https://bored-craft.pisaucer.com)
 * [Minecraft Flash Edition]({{ "/games/minecraftflashedition/" | relative_url }})
+* [Mortal Kombat]({{ "/games/mortalkombat/" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

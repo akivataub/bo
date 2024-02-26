@@ -21,6 +21,7 @@
 * [Formula Racer*]({{ "/games/formularacer/" | relative_url }})
 * [Frogger]({{ "/games/frogger/" | relative_url }})
 * [Galaga]({{ "/games/galaga/" | relative_url }})
+* [Gameboy]({{ "/games/gameboy/" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

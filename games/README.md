@@ -30,6 +30,9 @@
 * [Learn to Fly]({{ "/games/learntofly/" | relative_url }})
   * [Learn to Fly 2]({{ "/games/learntofly/learntofly2/" | relative_url }})
   * [Learn to Fly Idle*]({{ "/games/learntofly/learntoflyidle/" | relative_url }})
+* [Line Rider]({{ "/games/lineriders/" | relative_url }})
+  * [Line Rider]({{ "/games/lineriders/linerider/" | relative_url }})
+  * [Line Rider 2]({{ "/games/lineriders/linerider2/" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

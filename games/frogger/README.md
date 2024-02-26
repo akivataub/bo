@@ -4,7 +4,7 @@ title: Frogger
 folder: games/frogger
 gamefile: frogger.swf
 download: true
-description: 
+description: "Frogger is a classic arcade game from the 80s. The goal is to get the frog across the road without getting hit by a car or falling into the water."
 ---
 
 

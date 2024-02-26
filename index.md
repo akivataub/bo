@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-<div class="Games" id="Games" markdown="1">
+<div class="Games" id="Games" markdown="1" style="margin-right: 50px;">
 
 ## [Games](games/)
 
@@ -12,19 +12,19 @@ title: Home
 
 </div>
 
----
+<div class="WebsiteUnblockerProxy" markdown="1" style="margin-right: 50px;">
 
-<div class="WebsiteUnblockerProxy" markdown="1">
+---
 
 ## Website Unblocker via Proxy
 
 * [holyubofficial.net<span class="material-icons">launch</span>](https://holyubofficial.net/)
 
-</div>
-
 ---
 
-<div class="HackedGames" markdown="1">
+</div>
+
+<div class="HackedGames" markdown="1" style="margin-right: 50px;">
 
 ## Hacked Games
 

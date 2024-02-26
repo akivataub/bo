@@ -17,6 +17,7 @@
   * [Doom II: Hell on Earth]({{ "/games/dooms/doom2/" | relative_url }})
 * [Dungeon Developer*]({{ "/games/dungeondeveloper/" | relative_url }})
 * [Flash Pacman]({{ "/games/flashpacman/" | relative_url }})
+* [Formula Racer*]({{ "/games/formularacer/" | relative_url }})
 
 <!-- bored-craft.pisaucer.com -->
 <!-- bored-retroarch.pisaucer.com -->

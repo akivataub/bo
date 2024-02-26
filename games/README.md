@@ -22,6 +22,10 @@
 * [Frogger]({{ "/games/frogger/" | relative_url }})
 * [Galaga]({{ "/games/galaga/" | relative_url }})
 * [Gameboy]({{ "/games/gameboy/" | relative_url }})
+* [Happy Wheels]({{ "/games/happywheels/" | relative_url }})
+  * [Happy Wheels Demo*]({{ "/games/happywheels/demo/" | relative_url }})
+  * [Happy Wheels Full Game]({{ "/games/happywheels/fullgame/" | relative_url }})
+  * [Happy Wheels Actual Website*<span class="material-icons">launch</span>](https://totaljerkface.com/happy_wheels.tjf)
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

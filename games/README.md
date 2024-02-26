@@ -34,6 +34,7 @@
   * [Line Rider 2]({{ "/games/lineriders/linerider2/" | relative_url }})
 * [Mari0]({{ "/games/mari0/" | relative_url }})
 * [Mechanical Commando*]({{ "/games/mechanicalcommando/" | relative_url }})
+* [Megaman Project X]({{ "/games/megamanprojectx/" | relative_url }})
 
 <!-- * [Minecraft Classic](https://bored-craft.pisaucer.com)-->
 <!-- bored-retroarch.pisaucer.com -->

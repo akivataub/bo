@@ -37,9 +37,9 @@ title: Home
 ---
 
 <div class="search-container">
-    <input type="text" id="othergameFinder" onkeyup="gameFinder()" placeholder="Search for other games only" title="Type in a game">
+    <input type="text" id="othergameFinder" onkeyup="othergameFinder()" placeholder="Search for other games only" title="Type in a game">
     <script>
-        function gameFinder() {
+        function othergameFinder() {
             var input, filter, ul, li, a, i, txtValue;
             input = document.getElementById("othergameFinder");
             filter = input.value.toUpperCase();

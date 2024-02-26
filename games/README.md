@@ -36,6 +36,7 @@
 * [Mechanical Commando*]({{ "/games/mechanicalcommando/" | relative_url }})
 * [Megaman Project X]({{ "/games/megamanprojectx/" | relative_url }})
 * [Metal Slug Flash]({{ "/games/metalslug/" | relative_url }})
+* [Mii Maker]({{ "/games/miimaker/" | relative_url }})
 
 <!-- * [Minecraft Classic](https://bored-craft.pisaucer.com)-->
 <!-- bored-retroarch.pisaucer.com -->

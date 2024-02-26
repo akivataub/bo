@@ -8,7 +8,10 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="{{ site.cdn }}bootstrap/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="{{ site.cdn }}style.min.css">
+    <!-- <link href="{{ site.cdn }}bootstrap/bootstrap.min.css" rel="stylesheet"> -->
+    <link href="/css/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <!-- <link rel="stylesheet" type="text/css" href="{{ site.cdn }}style.min.css"> -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q473F59QW1"></script>
     <script>
@@ -64,27 +67,6 @@
         </a>
     </div>
     <hr>
-    <div class="search-container">
-        <input type="text" id="gameFinder" onkeyup="gameFinder()" placeholder="Search for games only" title="Type in a game">
-        <script>
-            function gameFinder() {
-                var input, filter, ul, li, a, i, txtValue;
-                input = document.getElementById("gameFinder");
-                filter = input.value.toUpperCase();
-                ul = document.getElementById("Games");
-                li = ul.getElementsByTagName("li");
-                for (i = 0; i < li.length; i++) {
-                    a = li[i].getElementsByTagName("a")[0];
-                    txtValue = a.textContent || a.innerText;
-                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                        li[i].style.display = "";
-                    } else {
-                        li[i].style.display = "none";
-                    }
-                }
-            }
-        </script>
-    </div>
     <hr>
     <div style="margin-right: 50px;">
     {{ content }}

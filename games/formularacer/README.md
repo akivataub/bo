@@ -4,7 +4,7 @@ title: Formula Racer
 folder: games/formularacer
 gamefile: embeddable_109268.swf
 download: true
-description: 
+# description: 
 ---
 
 {% assign cdn_url = site.cdn | append: "/" | append: page.folder | append: "/" | append: page.gamefile %}

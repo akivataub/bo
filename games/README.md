@@ -26,6 +26,7 @@
   * [Happy Wheels Demo*]({{ "/games/happywheels/demo/" | relative_url }})
   * [Happy Wheels Full Game]({{ "/games/happywheels/fullgame/" | relative_url }})
   * [Happy Wheels Actual Website*<span class="material-icons">launch</span>](https://totaljerkface.com/happy_wheels.tjf)
+* [Impossible Quiz]({{ "/games/impossiblequiz/" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

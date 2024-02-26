@@ -11,6 +11,7 @@
 * [Cookie Clicker]({{ "/games/cookieclicker/" | relative_url }})
 * [Demons Took My Daughter]({{ "/games/demonstookmydaughter/" | relative_url }})
 * [Dino (T-Rex Game)]({{ "/games/dino/" | relative_url }})
+* [Donkey Kong Flash]({{ "/games/donkeykong/" | relative_url }})
 * [Dooms]({{ "/games/dooms/" | relative_url }})
   * [Doom]({{ "/games/dooms/doom" | relative_url }})
   * [Doom II: Hell on Earth]({{ "/games/dooms/doom2/" | relative_url }})

@@ -18,6 +18,7 @@
 * [Dungeon Developer*]({{ "/games/dungeondeveloper/" | relative_url }})
 * [Flash Pacman]({{ "/games/flashpacman/" | relative_url }})
 * [Formula Racer*]({{ "/games/formularacer/" | relative_url }})
+* [Frogger]({{ "/games/frogger/" | relative_url }})
 
 <!-- bored-craft.pisaucer.com -->
 <!-- bored-retroarch.pisaucer.com -->

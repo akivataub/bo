@@ -40,6 +40,7 @@
 * [Minecraft Classic](https://bored-craft.pisaucer.com)
 * [Minecraft Flash Edition]({{ "/games/minecraftflashedition/" | relative_url }})
 * [Mortal Kombat]({{ "/games/mortalkombat/" | relative_url }})
+* [Mr Runner*]({{ "/games/mrrunner/" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

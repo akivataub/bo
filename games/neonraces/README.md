@@ -5,5 +5,5 @@ folder: games/neonraces
 # description:
 ---
 
-* [Neon Race](neonrace/)
-* [Neon Race 2](neonrace2/)
+* [Neon Race*](neonrace/)
+* [Neon Race 2*](neonrace2/)

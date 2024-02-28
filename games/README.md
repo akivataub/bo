@@ -52,6 +52,14 @@
   * [Papa's Pizzaeria*]({{ "/games/paparestaurants/pizzaeria/" | relative_url }})
 * [Pokemon Flash Version]({{ "/games/pokemonflash/" | relative_url }})
 * [Portal: The Flash Verison]({{ "/games/portal/" | relative_url }})
+* [RetroArch Web Player](https://bored-retroarch.pisaucer.com)
+* [Riddle Schools]({{ "/games/riddleschool/" | relative_url }})
+  * [Riddle School - Year 1]({{ "/games/riddleschool/year1/" | relative_url }})
+  * [Riddle School - Year 2]({{ "/games/riddleschool/year2/" | relative_url }})
+  * [Riddle School - Year 3]({{ "/games/riddleschool/year3/" | relative_url }})
+  * [Riddle School - Year 4]({{ "/games/riddleschool/year4/" | relative_url }})
+  * [Riddle School - Year 5]({{ "/games/riddleschool/year5/" | relative_url }})
+  * [Riddle Transfer - (Year 6)]({{ "/games/riddleschool/year6/" | relative_url }})
+  * [Riddle Transfer 2 - (Year 7)]({{ "/games/riddleschool/year7/" | relative_url }})
 
-<!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

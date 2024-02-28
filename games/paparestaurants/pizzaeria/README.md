@@ -1,6 +1,6 @@
 ---
 layout: game
-title: Papa's Oizzaeria
+title: Papa's Pizzaeria
 folder: games/paparestaurants/pizzaeria
 gamefile_1: papaspizzeria.swf
 gamefile_2: papaspizzeria_coolmath_update.swf

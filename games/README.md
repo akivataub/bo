@@ -41,6 +41,9 @@
 * [Minecraft Flash Edition]({{ "/games/minecraftflashedition/" | relative_url }})
 * [Mortal Kombat]({{ "/games/mortalkombat/" | relative_url }})
 * [Mr Runner*]({{ "/games/mrrunner/" | relative_url }})
+* [Neon Races]({{ "/games/neonraces/" | relative_url }})
+  * [Neon Race*]({{ "/games/neonraces/neonrace" | relative_url }})
+  * [Neon Race 2*]({{ "/games/neonraces/neonrace2" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

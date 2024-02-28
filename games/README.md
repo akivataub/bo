@@ -44,6 +44,7 @@
 * [Neon Races]({{ "/games/neonraces/" | relative_url }})
   * [Neon Race*]({{ "/games/neonraces/neonrace" | relative_url }})
   * [Neon Race 2*]({{ "/games/neonraces/neonrace2" | relative_url }})
+* [Oregon Trail]({{ "/games/oregontrail/" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

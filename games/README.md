@@ -45,6 +45,11 @@
   * [Neon Race*]({{ "/games/neonraces/neonrace" | relative_url }})
   * [Neon Race 2*]({{ "/games/neonraces/neonrace2" | relative_url }})
 * [Oregon Trail]({{ "/games/oregontrail/" | relative_url }})
+* [Papa's Restaurants]({{ "/games/paparestaurants/" | relative_url }})
+  * [Papa's Cupcakeria*]({{ "/games/paparestaurants/cupcakeria/" | relative_url }})
+  * [Papa's Donuteria*]({{ "/games/paparestaurants/donuteria/" | relative_url }})
+  * [Papa's Freeseria]({{ "/games/paparestaurants/freeseria/" | relative_url }})
+  * [Papa's Pizzaeria*]({{ "/games/paparestaurants/pizzaeria/" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

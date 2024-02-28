@@ -3,7 +3,6 @@ layout: home
 title: Home
 ---
 
-
 <div class="search-container">
     <input type="text" id="gameFinder" onkeyup="gameFinder()" placeholder="Search for games only" title="Type in a game">
     <script>

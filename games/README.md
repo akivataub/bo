@@ -51,6 +51,7 @@
   * [Papa's Freeseria]({{ "/games/paparestaurants/freeseria/" | relative_url }})
   * [Papa's Pizzaeria*]({{ "/games/paparestaurants/pizzaeria/" | relative_url }})
 * [Pokemon Flash Version]({{ "/games/pokemonflash/" | relative_url }})
+* [Portal: The Flash Verison]({{ "/games/portal/" | relative_url }})
 
 <!-- bored-retroarch.pisaucer.com -->
 <!-- https://bored-entertainment.github.io/NeptuneJS/ -->

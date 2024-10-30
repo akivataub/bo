@@ -1,5 +1,3 @@
 /v2/* https://boredhtml.netlify.app/:splat 200!
 /v1/* https://boredhtml-v1.netlify.app/:splat 200!
 /v0/* https://boredhtml-v1.netlify.app/:splat 200!
-
-/v1  https://boredht.ml/v1/ 301!

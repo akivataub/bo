@@ -1,0 +1,17 @@
+title: Bored In School Right Now
+description: >- # this means to ignore newlines until "baseurl:"
+  Online Education Games
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bored.pisaucer.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  pisaucer
+
+version: "2.0.0-beta"
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+readme_index:
+  enabled: true
+  with_frontmatter: true
+
+cdn: https://cdn.jsdelivr.net/gh/pisaucer/boredhtml/

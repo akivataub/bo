@@ -1620,7 +1620,7 @@ var Module = null;
          titleCell.style.minHeight = "24px";
          titleCell.style.whiteSpace = "nowrap";
          titleCell.style.fontSize = "8px";
-         titleCell.style.color = "#C3FF00";
+         titleCell.style.color = "#FEDB1D";
        }
        cell.appendChild(titleCell);
        var statusCell = document.createElement('span');

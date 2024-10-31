@@ -9,7 +9,7 @@ version: "2.0.0-beta"
 cdn: https://cdn.jsdelivr.net/gh/pisaucer/boredhtml/
 
 include:
-  _redirects
+  - _redirects
 
 # Build settings
 markdown: kramdown

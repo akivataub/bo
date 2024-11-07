@@ -1,4 +1,5 @@
 <ul>
+    <li><a href="https://webring.mesagrey.ca/" target="_blank">The BoredRing Webring!<span class="material-icons">launch</span></a></li>
     <li><a href="https://agar.io/" target="_blank">Agar.io<span class="material-icons">launch</span></a></li>
     <li><a href="https://en.akinator.com/" target="_blank">Akinator*<span class="material-icons">launch</span></a></li>
     <li><a href="https://www.kixeye.com/game/battlepirates/home" target="_blank">Battle Pirates<span class="material-icons">launch</span></a></li>

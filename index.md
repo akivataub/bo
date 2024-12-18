@@ -64,15 +64,9 @@ title: Home
 {% include_relative othergames/README.md %}
 
 </div>
-
-<div class="WebsiteUnblockerProxy" markdown="1" style="margin-right: 50px;">
-
 ---
 
 ## Website Unblocker via Proxy
-
-* [holyubofficial.net<span class="material-icons">launch</span>](https://holyubofficial.net/)
-
 ---
 
 </div>

@@ -63,13 +63,6 @@ title: Home
 
 {% include_relative othergames/README.md %}
 
-</div>
----
-
-## Website Unblocker via Proxy
----
-
-</div>
 
 <div class="HackedGames" markdown="1" style="margin-right: 50px;">
 
